@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/home/jeroentrappers/Developer/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/jeroentrappers/Developer/github/flutter_jailbreak_detection/example"
+export "FLUTTER_ROOT=/Users/robinyonathan/Documents/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/robinyonathan/Documents/GitHub/flutter_jailbreak_detection/example"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
